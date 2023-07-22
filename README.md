@@ -1,8 +1,6 @@
 # BasicSpotifyClient API Reference
 
 
-<br>
-
 
 ## Usage
 
@@ -18,6 +16,7 @@
 
 
 <br>
+<br>
 
 
 ## Log-in into Spotify
@@ -29,10 +28,10 @@ This endpoints are <span style="text-decoration: underline;">only for accessing 
 <br>
 <br>
 
-###  API without scope (access only to publicly available information)
+### Log-in without scope (access only to publicly available information)
 ```GET /login``` 
 
 ---
 
-### Log-in into Spotify API With [scope](https://developer.spotify.com/documentation/web-api/concepts/scopes) (for example: "user-library-read")
+### Log-in with [scope](https://developer.spotify.com/documentation/web-api/concepts/scopes) (for example: "user-library-read")
 ```GET /login?scope=user-library-read```
