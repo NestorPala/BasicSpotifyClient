@@ -22,7 +22,7 @@
 ## Log-in into Spotify
 
 <br>
-This endpoints are <span style="text-decoration: underline;">only for accessing from a browser</span>, for example: <i>Google Chrome, Mozilla Firefox, Edge</i>, etc.
+These endpoints are <span style="text-decoration: underline;">only for accessing from a browser</span>, for example: <i>Google Chrome, Mozilla Firefox, Edge</i>, etc.
 <br>
 <i>Do not request this URLs using a REST client.</i>
 <br>
